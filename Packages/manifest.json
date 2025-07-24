@@ -6,6 +6,7 @@
     "com.cysharp.zstring": "https://github.com/Cysharp/ZString.git?path=src/ZString.Unity/Assets/Scripts/ZString",
     "com.github-glitchenzo.nugetforunity": "4.5.0",
     "com.unity.feature.development": "1.0.1",
+    "com.unity.postprocessing": "3.4.0",
     "com.unity.textmeshpro": "3.0.9",
     "com.unity.timeline": "1.7.7",
     "com.unity.ugui": "1.0.0",
