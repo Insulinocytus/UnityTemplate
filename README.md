@@ -58,6 +58,11 @@ Unityゲーム開発でよく使われるライブラリ、ミドルウェア、
 
 ## Get Started
 
+### Project Settings
+
+- PlayerでCompany NameとProduct Nameを設定する
+- SRP(Scriptable Render Pipeline)は未使用ですので、必要なら手動で設定してください
+
 ### MasterMemory
 
 MasterMemoryのドキュメントによりますと、Unityではデフォルトinitキーワード使えないので、もし必要なら手動で設定してください。  
