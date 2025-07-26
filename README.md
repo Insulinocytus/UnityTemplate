@@ -48,6 +48,8 @@ Unityゲーム開発でよく使われるライブラリ、ミドルウェア、
     - Install via Git
   - [annulusgames/LitMotion](https://github.com/annulusgames/LitMotion)
     - Install via Git
+  - [focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr)
+    - Install via Git
 
 ## Removed
 
@@ -62,6 +64,7 @@ Unityゲーム開発でよく使われるライブラリ、ミドルウェア、
 
 - PlayerでCompany NameとProduct Nameを設定する
 - SRP(Scriptable Render Pipeline)は未使用ですので、必要なら手動で設定してください
+- HybridCLRを利用する場合、[ドキュメント](https://hybridclr.doc.code-philosophy.com/en/docs/intro)を参考して初期設定などを行ってください
 
 ### MasterMemory
 
